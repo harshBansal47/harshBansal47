@@ -2,11 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Bansal</h1>
 <h3 align="center">A am a Full Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbansal47&label=Profile%20views&color=0e75b6&style=flat" alt="harshbansal47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshbansal47" alt="harshbansal47" /></a> </p>
-
 - 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **Next.js with Prisma**
