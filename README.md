@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **Full Stack Projects**<br><br>- 🌱 I’m currently learning **Next.js with Prisma**<br><br>- 👯 I’m looking to collaborate on **Open Source in Node.js Environment**<br><br>- 📫 How to reach me **hb19384ece2019@gmail.com**</p>
+<p align="left">- 🔭 I’m currently working on **Full Stack Projects**<br><br>- 🌱 I’m currently learning **Next.js with Prisma**<br><br>- 👯 I’m looking to collaborate on **Open Source in Node.js Environment**<br><br>- 📫 How to reach me **hb19384ece2019@gmail.com** ** +91 9649269385 **</p>
 
 ###
 
