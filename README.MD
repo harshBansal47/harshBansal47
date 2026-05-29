@@ -55,15 +55,7 @@
   <img src="https://streak-stats.demolab.com?user=harshBansal47&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshBansal47/harshBansal47/output/snake.svg" />
-</p>
-
----
 
 ### ⚡ Fun Fact
 
