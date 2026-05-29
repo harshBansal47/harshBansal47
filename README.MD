@@ -8,7 +8,7 @@
 - ☁️ Designing <strong>Cloud-native architectures</strong> on AWS, GCP & Azure<br><br>
 - 🛠️ Experienced in <strong>Backend services, Microservices, Security & Concurrent Systems</strong><br><br>
 - 👯 Open to collaborate on <strong>Open Source & Freelance Projects</strong><br><br>
-- 📫 Reach me at <strong>hb19384ece2019@gmail.com</strong> | <strong>+91 9649269385</strong>
+- 📫 Reach me at <strong>harshbansal472000@gmail.com</strong> | <strong>+91 9649269385</strong>
 </p>
 
 ###
@@ -56,7 +56,7 @@
   <a href="https://wa.link/krzyvz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp" />
   </a>
-  <a href="mailto:hb19384ece2019@gmail.com" target="_blank">
+  <a href="mailto:harshbansal472000@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
   <a href="https://leetcode.com/harshBansal47" target="_blank">
